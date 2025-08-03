@@ -1,0 +1,56 @@
+22:25:36:376 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+22:25:36:388 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+22:25:36:390 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:390 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:391 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:392 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:392 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:462 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:490 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 21 ms.
+22:25:36:534 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 41 ms.
+22:25:36:539 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:540 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:546 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:547 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:548 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:549 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:554 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:554 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:556 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:557 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:566 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:567 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:567 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:568 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:571 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:573 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:578 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:579 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:580 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:25:36:580 [main] INFO  5logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:25:36:613 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\AppData\Local\Temp\testng-eclipse-1081824706\testng-customsuite.xml
+
+22:25:36:702 [main] INFO  5logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 22 ms.
+22:26:16:120 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+22:26:16:464 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+22:26:17:031 [main] INFO  5logger{36} - *** Clicked on Register ***
+22:26:18:386 [main] INFO  5logger{36} - *** Entering customer details... ***
+22:26:33:501 [main] INFO  5logger{36} - *** Entering expected message ***
+22:26:33:685 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+22:26:36:146 [main] INFO  5logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@2d000e80: 490 ms
+22:26:36:153 [main] INFO  5logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@60737b23: 6 ms
+22:26:36:192 [main] INFO  5logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@4682eba5: 38 ms
+22:26:36:261 [main] INFO  5logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2f2d52ef: 67 ms
+22:26:36:324 [main] INFO  5logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@38eb2c50: 63 ms
+22:26:36:325 [main] INFO  5logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@8bffb8b: 0 ms
+19:54:22:510 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\crossbrowser.xml
+
+19:56:31:012 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+19:56:31:842 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+19:56:32:476 [main] INFO  5logger{36} - *** Clicked on Register ***
+19:56:33:588 [main] INFO  5logger{36} - *** Entering customer details... ***
+19:56:45:964 [main] INFO  5logger{36} - *** Entering expected message ***
+19:56:46:433 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+20:01:13:647 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***

@@ -1,0 +1,72 @@
+20:02:12:046 [main] INFO  5logger{36} - ** Execution completed **
+20:03:51:166 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Grouping.xml
+
+20:04:02:839 [main] INFO  5logger{36} - ** Starting test **
+20:04:10:362 [main] INFO  5logger{36} - ** Execution completed **
+20:10:56:492 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Grouping.xml
+
+20:12:15:625 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+20:12:16:549 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+20:12:17:486 [main] INFO  5logger{36} - *** Clicked on Register ***
+20:12:18:377 [main] INFO  5logger{36} - *** Entering customer details... ***
+20:12:23:142 [main] INFO  5logger{36} - *** Entering expected message ***
+20:12:23:220 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+20:12:47:602 [main] INFO  5logger{36} - ** Starting test **
+20:12:57:259 [main] INFO  5logger{36} - ** Execution completed **
+20:18:14:365 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Grouping.xml
+
+20:19:01:338 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+20:19:01:363 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+20:19:01:486 [main] INFO  5logger{36} - *** Clicked on Register ***
+20:19:02:897 [main] INFO  5logger{36} - *** Entering customer details... ***
+20:19:04:343 [main] INFO  5logger{36} - *** Entering expected message ***
+20:19:05:318 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+20:19:24:484 [main] INFO  5logger{36} - ** Starting test **
+23:01:52:014 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+23:03:51:046 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+23:03:52:669 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+23:03:59:334 [main] INFO  5logger{36} - *** Clicked on Register ***
+23:04:00:521 [main] INFO  5logger{36} - *** Entering customer details... ***
+23:04:15:830 [main] INFO  5logger{36} - *** Entering expected message ***
+23:04:17:970 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+23:05:21:699 [main] INFO  5logger{36} - ** Starting test **
+23:05:28:402 [main] INFO  5logger{36} - ** Execution completed **
+23:07:21:274 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+23:08:06:217 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+23:08:06:355 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+23:08:06:445 [main] INFO  5logger{36} - *** Clicked on Register ***
+23:08:07:444 [main] INFO  5logger{36} - *** Entering customer details... ***
+23:08:14:152 [main] INFO  5logger{36} - *** Entering expected message ***
+23:08:15:407 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+23:08:38:717 [main] INFO  5logger{36} - ** Starting test **
+23:08:45:698 [main] INFO  5logger{36} - ** Execution completed **
+22:17:05:958 [main] INFO  5logger{36} - ** Starting test **
+22:17:21:556 [main] INFO  5logger{36} - ** Execution completed **
+22:21:41:207 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+22:21:41:247 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+22:21:41:341 [main] INFO  5logger{36} - *** Clicked on Register ***
+22:21:45:709 [main] INFO  5logger{36} - *** Entering customer details... ***
+22:21:52:875 [main] INFO  5logger{36} - *** Entering expected message ***
+22:21:53:078 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+22:24:19:337 [main] INFO  5logger{36} - ** Starting test **
+22:24:40:569 [main] INFO  5logger{36} - ** Execution completed **
+23:13:09:974 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+23:13:10:319 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+23:13:20:737 [main] ERROR 5logger{36} - Test Failed
+23:14:13:633 [main] INFO  5logger{36} - ** Starting test **
+23:15:16:249 [main] INFO  5logger{36} - ** Execution completed **
+23:25:50:785 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+23:25:50:907 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+23:25:51:241 [main] INFO  5logger{36} - *** Clicked on Register ***
+23:25:52:806 [main] INFO  5logger{36} - *** Entering customer details... ***
+23:26:03:488 [main] INFO  5logger{36} - *** Entering expected message ***
+23:26:04:043 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+23:26:29:631 [main] INFO  5logger{36} - ** Starting test **
+23:26:39:056 [main] INFO  5logger{36} - ** Execution completed **

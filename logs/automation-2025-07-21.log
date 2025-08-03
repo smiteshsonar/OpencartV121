@@ -1,0 +1,97 @@
+20:01:13:647 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+20:01:16:387 [main] ERROR 5logger{36} - Test Failed
+20:04:08:611 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\crossbrowser.xml
+
+20:05:14:235 [TestNG-tests-2] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+20:05:15:148 [TestNG-tests-2] INFO  5logger{36} - *** Clicked on MyAccount ***
+20:05:16:302 [TestNG-tests-1] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+20:05:16:302 [TestNG-tests-1] INFO  5logger{36} - *** Clicked on MyAccount ***
+20:05:17:962 [TestNG-tests-2] INFO  5logger{36} - *** Clicked on Register ***
+20:05:18:870 [TestNG-tests-1] INFO  5logger{36} - *** Clicked on Register ***
+20:05:19:249 [TestNG-tests-2] INFO  5logger{36} - *** Entering customer details... ***
+20:05:20:549 [TestNG-tests-1] INFO  5logger{36} - *** Entering customer details... ***
+20:05:33:124 [TestNG-tests-2] INFO  5logger{36} - *** Entering expected message ***
+20:06:14:406 [TestNG-tests-1] INFO  5logger{36} - *** Entering expected message ***
+20:06:14:953 [TestNG-tests-1] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+20:06:20:903 [TestNG-tests-2] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+20:19:05:177 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+20:20:06:291 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+20:24:09:463 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+20:27:02:802 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\src\test\java\testCases\Master.xml
+
+20:28:21:776 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\src\test\java\testCases\Master.xml
+
+22:37:44:238 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\src\test\java\testCases\Master.xml
+
+22:38:57:005 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\src\test\java\testCases\Master.xml
+
+22:39:20:386 [main] INFO  5logger{36} - *** Starting TC001_AccountRegistrationTest ***
+22:39:21:160 [main] INFO  5logger{36} - *** Clicked on MyAccount ***
+22:39:21:336 [main] INFO  5logger{36} - *** Clicked on Register ***
+22:39:22:111 [main] INFO  5logger{36} - *** Entering customer details... ***
+22:39:45:953 [main] INFO  5logger{36} - *** Entering expected message ***
+22:39:46:140 [main] INFO  5logger{36} - *** Test Finished - TC001_AccountRegistrationTest
+22:42:37:301 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+22:59:05:715 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+23:02:01:005 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+23:03:11:910 [main] INFO  5logger{36} - ** Starting test **
+23:03:21:737 [main] INFO  5logger{36} - ** Execution completed **
+13:47:01:896 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+13:51:01:469 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+14:01:01:608 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+14:13:11:219 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+14:15:09:697 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+15:29:56:072 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+18:22:29:374 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+19:50:33:862 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+19:52:08:335 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+20:00:44:153 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+20:01:56:550 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+20:06:23:524 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+20:13:54:619 [main] INFO  5logger{36} - [TestNG] Running:
+  C:\Users\Sarvesh\eclipse-workspace\OpencartV121\Master.xml
+
+20:14:10:917 [main] INFO  5logger{36} - ******** Starting TC003_LoginDDT ***********
+20:14:17:288 [main] INFO  5logger{36} - ******** Starting TC003_LoginDDT ***********
+20:14:22:630 [main] INFO  5logger{36} - ******** Starting TC003_LoginDDT ***********
